@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Sistema de Cadastro de Alunos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>🎓 Cadastro de Alunos</h1>
+
+        <form id="form-aluno">
+            <input type="text" id="nome" placeholder="Nome do aluno" required>
+            <input type="text" id="curso" placeholder="Curso" required>
+            <input type="number" id="idade" placeholder="Idade" required>
+            <button type="submit">Cadastrar</button>
+        </form>
+
+        <h2>📋 Lista de Alunos</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Curso</th>
+                    <th>Idade</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody id="lista-alunos">
+                <!-- alunos aparecem aqui -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
