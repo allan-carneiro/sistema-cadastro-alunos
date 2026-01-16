@@ -1,10 +1,10 @@
-# 🏫 Sistema de Cadastro de Alunos
+# 🏫 Sistema de Cadastro de Alunos (CRUD)
 
 ![Preview do projeto](https://allan-carneiro.github.io/sistema-cadastro-alunos/preview.gif)
 
-Projeto simples de **sistema de cadastro de alunos**, desenvolvido com **HTML, CSS e JavaScript puro**.
+Projeto front-end que implementa um **sistema de cadastro de alunos**, desenvolvido com **HTML, CSS e JavaScript puro**, aplicando operações básicas de **CRUD (Create, Read, Delete)**.
 
-Este projeto foi criado com o objetivo de **praticar lógica de programação, manipulação do DOM e eventos em JavaScript**, simulando uma aplicação básica de cadastro.
+O projeto tem como foco a prática de **lógica de programação**, **manipulação do DOM** e **eventos em JavaScript**, simulando uma aplicação simples de cadastro.
 
 ---
 
@@ -14,39 +14,45 @@ Este projeto foi criado com o objetivo de **praticar lógica de programação, m
 - Listar alunos cadastrados
 - Remover alunos da lista
 - Validação básica de campos
+- Atualização dinâmica da interface
 - Interface simples e funcional
 
 ---
 
-## 🧠 Tecnologias utilizadas
+## 🧠 Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)
+- JavaScript (Vanilla JS)  
+- Manipulação do DOM  
+- Eventos  
+- Lógica de Programação  
 
 ---
 
-## 🌐 Acesse o projeto
+## 🌐 Deploy
 
-O sistema está **online no GitHub Pages**:  
-[https://allan-carneiro.github.io/sistema-cadastro-alunos/](https://allan-carneiro.github.io/sistema-cadastro-alunos/)
+🔗 Acesse o projeto em funcionamento:  
+https://allan-carneiro.github.io/sistema-cadastro-alunos/
 
 ---
 
-## 🎯 Objetivo do projeto
+## 🎯 Objetivo do Projeto
 
-Este projeto faz parte do meu aprendizado em **desenvolvimento web front-end**, servindo como base para projetos mais avançados no futuro.
+Aplicar conceitos fundamentais de desenvolvimento front-end, reforçando lógica de programação, operações CRUD e interatividade com o usuário.
 
 ---
 
 ## 👤 Autor
 
 **Allan Douglas**  
-Estudante e desenvolvedor em formação 🚀  
+Estudante de Análise e Desenvolvimento de Sistemas  
+Desenvolvedor Front-end em formação 🚀
 
 ---
 
 ## 📌 Observação
 
-Este projeto é uma aplicação **local simples**, ideal para treinar manipulação do DOM e lógica de cadastro em JavaScript.
+Projeto desenvolvido para fins educacionais, com foco em aprendizado e prática de JavaScript no front-end.
+
 
